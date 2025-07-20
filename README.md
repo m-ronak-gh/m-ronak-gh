@@ -2,10 +2,9 @@
 
 #  I'm Ronak Mishra
 
-### 🌱 **I’m learning ...**
-- **Web Development** - The Odin Project.
-- **Data Structures and Algorithms** - NeetCode.
-- **DSA through JavaScript** - FreeCodeCamp.
+### 🌱 **I’m currently learning ...**
+- **Full Stack Development**.
+- **Data Structures and Algorithms**.
 
 ### 📫 **How to Reach Me ...**
 - **Instagram:** @enigmatic.nerd
